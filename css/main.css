@@ -1,0 +1,12 @@
+.carousel-inner img {
+    width: 100%;
+    max-width:25%;
+    height: 100%;
+    display:block;
+    margin:auto;
+}
+
+#daisy-pics{
+   background-color:rgba(128, 128, 128, 0.8);
+}
+
